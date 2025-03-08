@@ -42,17 +42,15 @@ namespace Book_store.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Cover_Image")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Description")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
-                    b.Property<int>("PageCount")
+                    b.Property<int?>("PageCount")
                         .HasColumnType("INTEGER");
 
-                    b.Property<decimal>("Price")
+                    b.Property<decimal?>("Price")
                         .HasColumnType("TEXT");
 
                     b.Property<DateTime?>("PublishDate")

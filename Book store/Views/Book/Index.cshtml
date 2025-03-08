@@ -1,0 +1,128 @@
+@model PaginationModel<Book>;
+
+@{
+    ViewData["Title"] = "Book";
+}
+
+
+
+<h2>Users List</h2>
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var user in Model.Items)
+        {
+            <tr>
+                <td>@user.Book_ID</td>
+                <td>@user.Title</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@user.Book_ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@user.Book_ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@user.Book_ID">Delete</a>
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>
+
+
+<!-- ???????? ????????? -->
+<div class="pagination">
+    @if (Model.HasPreviousPage)
+    {
+        <a asp-controller="Book" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex - 1)" class="btn btn-primary">Previous</a>
+    }
+
+    @for (int i = 1; i <= Model.TotalPages; i++)
+    {
+        <a asp-controller="Book" asp-action="Index" asp-route-pageIndex="@i" class="btn @(i == Model.PageIndex ? "btn-success" : "btn-secondary")">@i</a>
+    }
+
+    @if (Model.HasNextPage)
+    {
+        <a asp-controller="Book" asp-action="Index" asp-route-pageIndex="@(Model.PageIndex + 1)" class="btn btn-primary">Next</a>
+    }
+</div>
+
+
+ @* <h1>Index</h1>
+
+ <p>
+     <a asp-action="Create">Create New</a>
+ </p>
+ <table class="table">
+     <thead>
+         <tr>
+             <th>
+                 @Html.DisplayNameFor(model => model.Title)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Author)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Publisher)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Price)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Description)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.PublishDate)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.Cover_Image)
+             </th>
+             <th>
+                 @Html.DisplayNameFor(model => model.PageCount)
+             </th>
+             <th></th>
+         </tr>
+     </thead>
+     <tbody>
+ @foreach (var item in Model) {
+         <tr>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Title)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Author.Author_ID)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Publisher.Publisher_ID)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Price)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Description)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.PublishDate)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.Cover_Image)
+             </td>
+             <td>
+                 @Html.DisplayFor(modelItem => item.PageCount)
+             </td>
+             <td>
+                 <a asp-action="Edit" asp-route-id="@item.Book_ID">Edit</a> |
+                 <a asp-action="Details" asp-route-id="@item.Book_ID">Details</a> |
+                 <a asp-action="Delete" asp-route-id="@item.Book_ID">Delete</a>
+             </td>
+         </tr>
+ }
+     </tbody>
+ </table>
+ *@

@@ -7,7 +7,7 @@ namespace Book_store.Models
         [Key]
         public int Publisher_ID { get; set; }
         public string Name { get; set; }
-        public ICollection<Book> Books { get; set; }
+        public ICollection<Book>? Books { get; set; }
 
     }
 }

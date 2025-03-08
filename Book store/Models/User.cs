@@ -14,9 +14,9 @@ namespace Book_store.Models
         public DateTime RegistratioDate { get; set; } = DateTime.Now;
 
 
-        public ICollection<Cart> Carts { get; set; }
-        public ICollection<Order> Orders { get; set; }
-        public ICollection<Review> reviews { get; set; }
+        public ICollection<Cart> Carts { get; set; } = new List<Cart>(); 
+        public ICollection<Order> Orders { get; set; } = new List<Order>();
+        public ICollection<Review> reviews { get; set; } = new List<Review>();
 
 
 

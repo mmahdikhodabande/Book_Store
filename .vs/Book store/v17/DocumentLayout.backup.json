@@ -3,48 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\publisher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|c:\\users\\mehdi kh\\source\\repos\\book store\\book store\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{63C4323B-56A8-469F-8709-59662EB31992}|Book store\\Book store.csproj|solutionrelative:book store\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,112 +18,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\User.cs",
-              "RelativeToolTip": "Book store\\Models\\User.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA5wAgAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:25:47.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Review.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Review.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Review.cs",
-              "RelativeToolTip": "Book store\\Models\\Review.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:25:39.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Publisher.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Publisher.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Publisher.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Publisher.cs",
-              "RelativeToolTip": "Book store\\Models\\Publisher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:25:31.028Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Payment.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Payment.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Payment.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Payment.cs",
-              "RelativeToolTip": "Book store\\Models\\Payment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:25:21.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "OrderItem.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\OrderItem.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\OrderItem.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\OrderItem.cs",
-              "RelativeToolTip": "Book store\\Models\\OrderItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:25:03.129Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Order.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Order.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Order.cs",
-              "RelativeToolTip": "Book store\\Models\\Order.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:54.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Category.cs",
-              "RelativeToolTip": "Book store\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:41.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\CartItem.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\CartItem.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\CartItem.cs",
-              "RelativeToolTip": "Book store\\Models\\CartItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:32.55Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
@@ -170,45 +30,40 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "Name": "ST:1368836598:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1745090582:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1753945044:0:{bf84ea66-d821-4dba-b1b1-2777d8574775}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Cart.cs",
-              "RelativeToolTip": "Book store\\Models\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:14.12Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "Book store\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "Book store\\Views\\Book\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-08T12:41:38.428Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BookCategory.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\BookCategory.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\BookCategory.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\BookCategory.cs",
-              "RelativeToolTip": "Book store\\Models\\BookCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Book store\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Controllers\\BookController.cs*",
+              "RelativeToolTip": "Book store\\Controllers\\BookController.cs*",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:10.58Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "Book store\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Mehdi Kh\\source\\repos\\Book store\\Book store\\Models\\Book.cs",
-              "RelativeToolTip": "Book store\\Models\\Book.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-25T11:24:06.161Z",
+              "WhenOpened": "2025-03-08T12:41:28.605Z",
               "EditorCaption": ""
             }
           ]

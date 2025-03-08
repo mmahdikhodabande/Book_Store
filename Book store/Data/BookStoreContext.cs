@@ -23,21 +23,20 @@ namespace Book_store.Data
         public DbSet<Review> Reviews { get; set; }
         public DbSet<User> Users { get; set; }
 
-
         
+
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfigurationsFromAssembly(typeof(BookStoreContext).Assembly);
-            //modelBuilder.ApplyConfiguration(new UserConfiguration());
-            //modelBuilder.ApplyConfiguration(new OrderConfiguration());
-            //modelBuilder.ApplyConfiguration(new CartConfiguration());
+        }
 
-            //modelBuilder.ApplyConfiguration(new AuthorConfiguration());
-            //modelBuilder.ApplyConfiguration(new BookConfiguration());
-            //modelBuilder.ApplyConfiguration(new CategoryConfiguration());
-
-            //modelBuilder.ApplyConfiguration(new PublisherConfiguration());
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            if (!optionsBuilder.IsConfigured)
+            {
+                optionsBuilder.UseSqlite("Data Source=BookStore.db");
+            }
         }
     }
 }
